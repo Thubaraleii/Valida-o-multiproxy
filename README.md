@@ -54,6 +54,9 @@ Essa abordagem garante maior consistência e qualidade nos perfis multiproxy, pr
    
 4. Estrutura do Projeto
 Valida-o-multiproxy/
+
 ├── MOD1 (LSL).ipynb       # Gráfico de linha: profundidade vs teores
+
 ├── README.md              # Este arquivo
+
 └── ...                    # Outros notebooks ou scripts
